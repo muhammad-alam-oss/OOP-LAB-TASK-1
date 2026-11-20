@@ -21,7 +21,7 @@ class Manager extends Employee {
         System.out.println("Department = " + department);
     }
 }
-public class Bank {
+public class Detail {
     public static void main(String[] args) {
         Employee e = new Employee("Alam", 95000);
         Manager m = new Manager("Mahmood", 150000, "CS");
