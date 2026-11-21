@@ -19,6 +19,7 @@ Rectangle extends Shape and overrides only the no-argument area() to print "Area
 shapes is the main class. It makes a Shape object and calls area(9) and area(10, 6). Then it makes a Rectangle object and calls area(5) and area(5, 10).
 
 What it prints
+
 Area of square:
 Area of Square = 81
 Area of Rectangle = 60
